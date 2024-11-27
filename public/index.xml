@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Gallery on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hugo Gallery on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>http://localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fashion-beauty/</guid><media:content url="http://localhost:1313/fashion-beauty/harper-sunday-FkxXePJJH5g-unsplash_hu3816021546107287479.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/harper-sunday-FkxXePJJH5g-unsplash_hu3816021546107287479.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nature/</guid><media:content url="http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu2503855539466006133.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu2503855539466006133.jpg&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Cats</title>
+      <link>http://localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/animals/cats/</guid><media:content url="http://localhost:1313/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu1389771013350917177.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu1389771013350917177.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/animals/dogs/</guid><media:content url="http://localhost:1313/animals/dogs/charlesdeluvio-Mv9hjnEUHR4-unsplash_hu9786330470872485738.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/animals/dogs/charlesdeluvio-Mv9hjnEUHR4-unsplash_hu9786330470872485738.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
